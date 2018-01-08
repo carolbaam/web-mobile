@@ -30,6 +30,8 @@ body{
   
 }
 
+
+
 #first-image  .col-6{
     font-size: 40px;
     text-align: center;
@@ -42,6 +44,7 @@ body{
     height: 500px;
     margin:0px;
     width: 100%;
+   
 
   
     background-size:cover; 
@@ -53,7 +56,7 @@ body{
 #cards .col-3,
 #cards .col-4{
     border:1px solid black;
-    background: white;
+    background: #b0a6ad;
     border-radius: 5px;
 }
 
@@ -138,4 +141,9 @@ button{
     background-size:cover; 
     background-position: center; 
     height: 400px;
+}
+
+#backimage1{
+    margin: 0px;
+    width: 100%;
 }
