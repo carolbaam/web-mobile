@@ -12,6 +12,8 @@ body{
     background: black;
     color: white;
     height: 65px;
+    margin:0px;
+    width: 100%;
 
 }
 
@@ -23,6 +25,7 @@ body{
 
 #first-image  .col-12{
     background-image: url("../assets/images/2.JPEG"); 
+    
    
   
 }
@@ -37,6 +40,9 @@ body{
 #first-image{
     background-image: url("../assets/images/back.JPEG");
     height: 500px;
+    margin:0px;
+    width: 100%;
+
   
     background-size:cover; 
 }
@@ -53,6 +59,9 @@ body{
 
 #footer .col-12{
     background:#f1d9cc;
+    margin:0px;
+    width: 100%;
+
 }
 #footer .col-12{
     text-align: center;
