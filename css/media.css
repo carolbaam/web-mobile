@@ -1,0 +1,42 @@
+
+@media(max-width:768px) {
+   #nav .col-4{
+        width: 60%;
+        font-size: 24px;
+    }
+    .col-1{
+       
+        display: none;
+        width: 0%;
+    }
+    #button{
+        display:inline-block;
+        width: 10%;
+        height: 60px;
+       
+       line-height: 2px;
+
+    }
+    #first-image .col-6{
+        width: 90%;
+        font-size: 50px;
+    }
+   
+    #main .col-6,#main .col-4{
+      width: 90%;
+
+    }
+
+    #cards .col-3{
+        width: 90%;
+    }
+
+    #cards .col-4{
+        width: 90%;
+    }
+
+    #footer .col-12{
+        width: 100%;
+        text-align: center;
+    }
+}
